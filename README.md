@@ -10,8 +10,7 @@ using tailwind css without any single line of css code.
 
 Website Demo
 
-https://github.com/Vishnu-Nadh/Modern_UIUX_website/blob/main/hoobank.gif
-
+![Hoobank demo](hoobank.gif)
 
 ## Tech Stack
 
