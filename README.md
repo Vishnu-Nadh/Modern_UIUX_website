@@ -8,7 +8,7 @@ using tailwind css without any single line of css code.
 
 Website Demo
 
-![Hoobank demo](demo/hoobank.gif)
+![Hoobank demo](demo/demo.png)
 
 ## Tech Stack
 
