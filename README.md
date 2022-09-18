@@ -8,7 +8,8 @@ using tailwind css without any single line of css code.
 
 Website Demo
 
-![Hoobank demo](demo/demo.png)
+![](./demo/demo.png)
+<img src="./demo/demo.png" alt="screenshot"/>
 
 ## Tech Stack
 
