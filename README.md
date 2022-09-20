@@ -8,8 +8,9 @@ using tailwind css without any single line of css code.
 
 Website Demo
 
-![](./demo/demo.png)
-<img src="./demo/demo.png" alt="screenshot"/>
+![screenshot](./demo/demo.png)
+
+<!-- <img src="./demo/demo.png" alt="screenshot"/> -->
 
 ## Tech Stack
 
