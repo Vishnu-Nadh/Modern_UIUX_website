@@ -8,7 +8,7 @@ using tailwind css without any single line of css code.
 
 Website Demo
 
-![screenshot](./demo/demo.png)
+![screenshot]('./demo/demo.png')
 
 <!-- <img src="./demo/demo.png" alt="screenshot"/> -->
 
